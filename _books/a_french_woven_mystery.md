@@ -14,3 +14,6 @@ goodreads_review:
 status: Finished
 ---
 
+My first book as an author. 
+
+A captivating blend of suspense and unraveling of the past! It weaves together long buried secrets, complex characters and unexpected plot twists. 
