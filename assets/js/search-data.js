@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-courses",
           title: "courses",
-          description: "Courses I have taken so far at McGill University",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/courses/";
@@ -87,16 +87,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/sherlock/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-my-project-translateasl-won-first-place-in-the-maishacks-2025-try-it-out",
+          title: 'My project translateASL won First Place in the MAISHacks 2025. Try it out!...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-m-awarded-the-sura-for-summer-2025-smile",
+          title: 'I’m awarded the SURA for Summer 2025! :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
