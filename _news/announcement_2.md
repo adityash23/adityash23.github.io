@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm awarded the SURA for Summer 2025! :smile:
+I'm awarded a SURA for Summer 2025

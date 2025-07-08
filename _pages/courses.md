@@ -7,15 +7,12 @@ nav: true
 nav_order: 6
 ---
 
-## Courses I've Taken at McGill University
+## Courses I've taken at McGill University
 
 ### Algorithms & Theory
 
 #### **COMP 252: Honours Algorithms and Data Structures**  
 Honours level course on design and analysis of algorithms and data structures, taught by [Luc Devroye](https://luc.devroye.org). Focus on proving algorithm correctness and analyzing computational complexity. Topics included sorting, graph algorithms, flow networks, dynamic programming, and asymptotic analysis.
-
-#### **COMP 250: Introduction to Algorithms**  
-A foundational course in algorithms and data structures, covering topics like sorting, searching, and graph algorithms.
 
 #### **COMP 302: Programming Languages and Paradigms**  
 Course on functional and logic programming using OCaml, taught by [Brigitte Pientka](https://www.cs.mcgill.ca/~bpientka/index.html). Programming language design issues and programming paradigms. Binding and scoping, parameter passing, lambda abstraction, data abstraction, type checking.
