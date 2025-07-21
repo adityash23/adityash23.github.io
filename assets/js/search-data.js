@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/_pages/dropdown/";
           },
-        },{id: "post-sustainable-machine-learning",
+        },{id: "post-exploring-rag-and-its-components",
+        
+          title: "Exploring RAG and its components",
+        
+        description: "intro to RAG technology",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/text/";
+          
+        },
+      },{id: "post-sustainable-machine-learning",
         
           title: "Sustainable Machine Learning",
         
