@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/_pages/dropdown/";
           },
-        },{id: "post-exploring-rag-and-its-components",
+        },{id: "post-rag-vs-cag",
+        
+          title: "RAG vs CAG",
+        
+        description: "comparison between 2 augmented generation techniques",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/text/";
+          
+        },
+      },{id: "post-exploring-rag-and-its-components",
         
           title: "Exploring RAG and its components",
         
@@ -63,7 +74,7 @@ ninja.data = [{
         
           title: "First Post",
         
-        description: "a brand new post",
+        description: "setting up your website",
         section: "Posts",
         handler: () => {
           
