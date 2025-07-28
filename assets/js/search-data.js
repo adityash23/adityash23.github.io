@@ -45,7 +45,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/text/";
+            window.location.href = "/blog/2025/rag-vs-cag/";
           
         },
       },{id: "post-exploring-rag-and-its-components",
@@ -56,7 +56,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/text/";
+            window.location.href = "/blog/2025/rag-and-its-components/";
           
         },
       },{id: "post-sustainable-machine-learning",
@@ -67,7 +67,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/text/";
+            window.location.href = "/blog/2025/sustainable-ml/";
           
         },
       },{id: "post-first-post",
