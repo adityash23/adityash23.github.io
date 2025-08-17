@@ -37,7 +37,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/_pages/dropdown/";
           },
-        },{id: "post-rag-vs-cag",
+        },{id: "post-ford-fulkerson-and-edmonds-karp",
+        
+          title: "Ford-Fulkerson and Edmonds-Karp",
+        
+        description: "some of the fascinating things about max. flow computation",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ford-fulkerson-and-edmonds-karp/";
+          
+        },
+      },{id: "post-the-science-of-interstellar",
+        
+          title: "The Science of Interstellar",
+        
+        description: "my favorite parts from this awesome book",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/science-of-interstellar/";
+          
+        },
+      },{id: "post-rag-vs-cag",
         
           title: "RAG vs CAG",
         
