@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/_pages/dropdown/";
           },
-        },{id: "post-ford-fulkerson-and-edmonds-karp",
+        },{id: "post-hackthenorth",
+        
+          title: "HackTheNorth",
+        
+        description: "attending Canada&#39;s best hackathon",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/hack-the-north/";
+          
+        },
+      },{id: "post-ford-fulkerson-and-edmonds-karp",
         
           title: "Ford-Fulkerson and Edmonds-Karp",
         
