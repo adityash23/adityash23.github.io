@@ -37,15 +37,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/_pages/dropdown/";
           },
-        },{id: "post-hackthenorth",
+        },{id: "post-hack-the-north-2025",
         
-          title: "HackTheNorth",
+          title: "Hack the North 2025",
         
-        description: "attending Canada&#39;s best hackathon",
+        description: "attending Canada&#39;s biggest hackathon",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/hack-the-north/";
+            window.location.href = "/blog/2025/hack-the-north-2025/";
           
         },
       },{id: "post-ford-fulkerson-and-edmonds-karp",
@@ -67,7 +67,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/science-of-interstellar/";
+            window.location.href = "/blog/2025/the-science-of-interstellar/";
           
         },
       },{id: "post-rag-vs-cag",
@@ -129,6 +129,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-m-awarded-a-sura-for-summer-2025",
           title: 'I’m awarded a SURA for Summer 2025',
+          description: "",
+          section: "News",},{id: "news-i-attented-canada-s-biggest-hackathon-hackthenorth-2025-at-the-university-of-waterloo-check-out-our-project-cogniverse-making-every-idea-teachable",
+          title: 'I attented Canada’s biggest hackathon - HackTheNorth 2025 at the University of Waterloo....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
