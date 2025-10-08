@@ -45,3 +45,5 @@ Currently working on energy consumption of Machine Learning models.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"  width="40" title="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>    
 </p>
+
+Check out [my blog](https://adityash23.github.io/blog/2025/the-science-of-interstellar) on *The Science of Interstellar* - my current read that delves into the physics behind one of the best science fiction movies.
