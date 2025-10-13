@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/_pages/dropdown/";
           },
-        },{id: "post-hack-the-north-2025",
+        },{id: "post-max-flow-vs-max-flow-value",
+        
+          title: "Max Flow vs Max Flow Value",
+        
+        description: "clarifying two concepts often misunderstood",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/max-flow-vs-max-flow-value/";
+          
+        },
+      },{id: "post-hack-the-north-2025",
         
           title: "Hack the North 2025",
         
