@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/_pages/dropdown/";
           },
-        },{id: "post-max-flow-vs-max-flow-value",
+        },{id: "post-theory-of-computation",
+        
+          title: "Theory of Computation",
+        
+        description: "fun facts about computation",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/theory-of-computation/";
+          
+        },
+      },{id: "post-max-flow-vs-max-flow-value",
         
           title: "Max Flow vs Max Flow Value",
         
