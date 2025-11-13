@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Max Flow vs Max Flow Value
-date: 2025-10-25 14:24:00
+date: 2025-10-12 14:24:00
 description: clarifying two concepts often misunderstood
 tags: computer-science
 categories: academic
