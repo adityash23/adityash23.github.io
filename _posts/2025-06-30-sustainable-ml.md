@@ -5,7 +5,7 @@ date: 2025-06-30 14:24:00
 description: intro to energy consumption of ML models
 tags: ml 
 categories: academic
-featured: true
+featured: false
 ---
 
 In the era of ChatGPT and other Generative AI models that allow you to get an answer to almost any question, let's take a step back and rethink our model choice before just doing an *API call to yet another LLM*. 
