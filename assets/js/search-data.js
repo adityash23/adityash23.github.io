@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/_pages/dropdown/";
           },
-        },{id: "post-theory-of-computation",
+        },{id: "post-code-to-give-2025",
+        
+          title: "Code to Give 2025",
+        
+        description: "attending hackathon by Morgan Stanley",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/code-to-give-2025/";
+          
+        },
+      },{id: "post-theory-of-computation",
         
           title: "Theory of Computation",
         
