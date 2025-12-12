@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-bookshelf",
+          title: "bookshelf",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
@@ -25,17 +32,10 @@ ninja.data = [{
           },
         },{id: "nav-courses",
           title: "courses",
-          description: "",
+          description: "courses I&#39;ve taken at McGill University",
           section: "Navigation",
           handler: () => {
             window.location.href = "/courses/";
-          },
-        },{id: "nav-submenus",
-          title: "submenus",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/_pages/dropdown/";
           },
         },{id: "post-code-to-give-2025",
         
