@@ -4,7 +4,7 @@ permalink: /courses/
 title: courses
 description: courses I've taken at McGill University
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 ### Algorithms & Theory
@@ -26,7 +26,7 @@ Course on functional and logic programming using OCaml, taught by [Brigitte Pien
 ### Artificial Intelligence & Machine Learning
 
 #### **COMP 551: Applied Machine Learning**  
-A mathematical introduction to Machine Learning models.
+A mathematical introduction to Machine Learning models, taught by [Reihaneh Rabbany](https://mila.quebec/en/directory/reihaneh-rabbany), a Core Academic Member of Mila - Quebec Artificial Intelligence Institute, and [Sékou-Oumar Kaba](https://oumarkaba.github.io). 
 
 ---
 
