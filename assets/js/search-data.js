@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-bookshelf",
-          title: "bookshelf",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/books/";
-          },
-        },{id: "nav-blog",
+  },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
+          },
+        },{id: "nav-courses",
+          title: "courses",
+          description: "courses I&#39;ve taken at McGill University",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/courses/";
           },
         },{id: "nav-repositories",
           title: "repositories",
@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-courses",
-          title: "courses",
-          description: "courses I&#39;ve taken at McGill University",
+        },{id: "nav-bookshelf",
+          title: "bookshelf",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/courses/";
+            window.location.href = "/books/";
           },
         },{id: "post-code-to-give-2025",
         
@@ -165,6 +165,15 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-attented-canada-s-biggest-hackathon-hackthenorth-2025-at-the-university-of-waterloo-check-out-our-project-cogniverse-making-every-idea-teachable",
           title: 'I attented Canada’s biggest hackathon - HackTheNorth 2025 at the University of Waterloo....',
+          description: "",
+          section: "News",},{id: "news-i-have-been-named-to-the-dean-s-honour-list-at-mcgill-university-for-2025-in-recognition-of-academic-excellence-ranking-among-the-top-10-of-students-by-gpa",
+          title: 'I have been named to the Dean’s Honour List at McGill University for...',
+          description: "",
+          section: "News",},{id: "news-i-participated-in-the-code-to-give-hackathon-2025-organized-by-morgan-stanley-where-i-helped-solve-a-real-world-problem-for-a-non-profit-partner",
+          title: 'I participated in the Code to Give Hackathon 2025 organized by Morgan Stanley,...',
+          description: "",
+          section: "News",},{id: "news-i-have-been-awarded-the-richard-tomlinson-undergraduate-award-for-my-tutoring-contributions-in-comp-251-algorithms-and-data-structures-through-the-faculty-of-science-peer-mentoring-program",
+          title: 'I have been awarded the Richard Tomlinson Undergraduate Award for my tutoring contributions...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
