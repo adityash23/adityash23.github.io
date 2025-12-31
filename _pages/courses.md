@@ -2,9 +2,16 @@
 layout: page
 permalink: /courses/
 title: courses
-description: courses I've taken at McGill University
+description: relevant coursework
 nav: true
 nav_order: 4
+---
+
+### Artificial Intelligence & Machine Learning
+
+#### **COMP 551: Applied Machine Learning**  
+A mathematical introduction to Machine Learning models, taught by [Reihaneh Rabbany](https://mila.quebec/en/directory/reihaneh-rabbany), a Core Academic Member of Mila - Quebec Artificial Intelligence Institute, and [Sékou-Oumar Kaba](https://oumarkaba.github.io). Developed a strong foundation in supervised and unsupervised learning, including linear and logistic regression, clustering, Naive Bayes, decision trees, and neural networks, as well as techniques including feature selection, dimensionality reduction, error estimation, empirical validation. Course assignments involved implementing neural networks from scratch (without external ML libraries) for image classification and text processing, trained and evaluated on Fashion-MNIST, and benchmarked model accuracy against pretrained baseline (BERT) to assess performance and generalization.
+
 ---
 
 ### Algorithms & Theory
@@ -13,7 +20,7 @@ nav_order: 4
 Course on advanced algorithm design and analysis taught by [Rohit Vasishta](https://sites.google.com/view/rohitvasishta/about). Topics covered include advanced Flow Network techniques with special constraints (e.g., lower bounds, vertex demands), Linear Programming, Game Theory, complexity classes, NP-completeness, and advanced algorithmic reduction techniques.
 
 #### **COMP 252: Honours Algorithms and Data Structures**  
-Honours level course on design and analysis of algorithms and data structures, taught by [Luc Devroye](https://luc.devroye.org). Focus on proving algorithm correctness and analyzing computational complexity. Topics included sorting, graph algorithms, flow networks, dynamic programming, and asymptotic analysis.
+Honours-level course on design and analysis of algorithms and data structures, taught by [Luc Devroye](https://luc.devroye.org). Focus on proving algorithm correctness and analyzing computational complexity. Topics included sorting, graph algorithms, Flow Networks, Dynamic Programming, and asymptotic analysis.
 
 #### **COMP 330: Theory of Computation**  
 Course on Automata theory and Turing Machines taught by [Jérôme Waldispühl](https://www.cs.mcgill.ca/~jeromew/). Topics covered include Finite Automata, Regular Languages, Context-free Languages, Push-down Automata, models of computation, computability theory, undecidability, reduction techniques.
@@ -23,10 +30,16 @@ Course on functional and logic programming using OCaml, taught by [Brigitte Pien
 
 ---
 
-### Artificial Intelligence & Machine Learning
+### Mathematical Foundations
 
-#### **COMP 551: Applied Machine Learning**  
-A mathematical introduction to Machine Learning models, taught by [Reihaneh Rabbany](https://mila.quebec/en/directory/reihaneh-rabbany), a Core Academic Member of Mila - Quebec Artificial Intelligence Institute, and [Sékou-Oumar Kaba](https://oumarkaba.github.io). 
+#### **MATH 247: Honors Applied Linear Algebra**  
+Honours-level course on matrix algebra, systems of linear equations, and linear transformations. Studied abstract vector spaces, inner product spaces, eigenvalues and eigenvectors, and diagonalizable and defective matrices. Explored quadratic and Hermitian forms, generalized eigenvalue problems, and applications relevant to algorithms and machine learning.
+
+#### **MATH 323: Probability**  
+Course on probability spaces, conditional probability, and Bayes’ Theorem, with an exploration of random variables, discrete and continuous distributions, and independence. Applied probabilistic concepts to model uncertainty, understand distributions, and support statistical inference in data-driven tasks.
+
+#### **MATH 324: Statistics**  
+Course on sampling distributions, point and interval estimation, and hypothesis testing. Covered analysis of variance, contingency tables, nonparametric inference, and regression, with an emphasis on statistical reasoning for data analysis and interpretation of empirical results.
 
 ---
 
@@ -37,15 +50,3 @@ A study of the design and implementation of modern operating systems, focusing o
 
 #### **COMP 273: Introduction to Computer Systems**  
 Learnt about combinational and sequential digital circuits, MIPS Assembly, cache, virtual memory and pipelining. Created a mini CPU with 4 bit instructions as part of the final project. 
-
----
-
-### Mathematical Foundations
-
-#### **MATH 247: Honors Applied Linear Algebra**  
-
-#### **MATH 245: Honors Algebra 1**  
-
-#### **MATH 222: Calculus 3**  
-
----

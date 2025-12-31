@@ -3,7 +3,7 @@ layout: post
 title: Exploring RAG and its components
 date: 2025-07-07 14:24:00
 description: intro to RAG technology
-tags: ml llm
+tags: ml llm computer-science
 categories: academic
 featured: true
 ---
