@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-courses",
           title: "courses",
-          description: "courses I&#39;ve taken at McGill University",
+          description: "relevant coursework",
           section: "Navigation",
           handler: () => {
             window.location.href = "/courses/";
@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-code-to-give-2025",
+        },{id: "post-bloom-filters",
+        
+          title: "Bloom Filters",
+        
+        description: "exploring one of my favorite data structures",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/bloom-filters/";
+          
+        },
+      },{id: "post-code-to-give-2025",
         
           title: "Code to Give 2025",
         
@@ -172,7 +183,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-participated-in-the-code-to-give-hackathon-2025-organized-by-morgan-stanley-where-i-helped-solve-a-real-world-problem-for-a-non-profit-partner",
           title: 'I participated in the Code to Give Hackathon 2025 organized by Morgan Stanley,...',
           description: "",
-          section: "News",},{id: "news-i-have-been-awarded-the-richard-tomlinson-undergraduate-award-for-my-tutoring-contributions-in-comp-251-algorithms-and-data-structures-through-the-faculty-of-science-peer-mentoring-program",
+          section: "News",},{id: "news-i-have-been-awarded-the-richard-tomlinson-undergraduate-award-for-my-tutoring-contributions-in-comp-251-algorithms-and-data-structures",
           title: 'I have been awarded the Richard Tomlinson Undergraduate Award for my tutoring contributions...',
           description: "",
           section: "News",},{id: "projects-project-1",
