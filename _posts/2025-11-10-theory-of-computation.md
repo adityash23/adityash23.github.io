@@ -3,7 +3,7 @@ layout: post
 title: Theory of Computation
 date: 2025-11-10 14:24:00
 description: fun facts about computation
-tags: computer-science
+tags: computer-science computation
 categories: academic
 featured: true
 ---

@@ -5,7 +5,7 @@ date: 2025-10-12 14:24:00
 description: clarifying two concepts often misunderstood
 tags: computer-science
 categories: academic
-featured: true
+featured: false
 ---
 
 The motivation for this post comes from an encounter I had with these 2 concepts and a subtle mix up that could affect the entirety of the problem at hand. The post assumes knowledge about flow networks, the concept of maximum flow and Ford Fulkerson or any other max flow computing *algorithm*.
