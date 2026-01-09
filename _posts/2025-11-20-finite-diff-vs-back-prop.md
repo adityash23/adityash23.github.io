@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finite Difference vs Backpropagation
-date: 2025-12-20 14:24:00
+date: 2025-11-20 14:24:00
 description: comparison between two gradient computation techniques in machine learning
 tags: computer-science ml
 categories: academic

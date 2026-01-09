@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Theory of Computation
-date: 2025-11-10 14:24:00
+date: 2025-12-11 14:24:00
 description: fun facts about computation
 tags: computer-science computation
 categories: academic
@@ -15,7 +15,7 @@ Following are some of my key takeaways from a theoretical computer science cours
 - Another way of explaining **P and NP classes**, different from a solution being polynomial time verifiable and/or computable - P includes problems that can be solved in polynomial time by a deterministic Turing Machine. NP included problems solved in polynomial time by a non-deterministic Turing Machine.
 - Cool thing about a **non-deterministic machine** - it speeds up computation since we assume that if there is a right choice to made amongst a set of choices, it will always choose the right one. Sounds too good to be true, right? It is! This is just a thought process. The only way to actually implemenet an NTM is via a DTM. An NTM would explore all choices at the same time and know which is the right one. However, a DTM would explore each choice one by one and then find the correct one. This is why DTM can have exponential runtimes even though an NTM will run in poly time for the same problem
 - Using some techniques, machines, strings and other objects can be represented by an integer. Thus you can also enumerate it by a bijective function between that set and positive integers. 
-- However **languages aren't enumerable**! This follows a similar proof to showing that there are more Real Numbers than Natural Numbers. Thus, there are more languages in the world than programs possible. Yet, you can't describe such a language! [1](#ps-note)
+- However **languages aren't enumerable**! This follows a similar proof to showing that there are more Real Numbers than Natural Numbers. Thus, there are more languages in the world than programs possible. Yet, you can't describe such a language! [[1]](#ps-note)
 - The above statement tells that there are some languages for which membership can't be determined since no program exists. Thus there are certain **problems that are unsolvable** in the world, even by quantum computers!!
 - **Turing Machines and Artificial Intelligence** - As mentioned above, Turing Machines are the strongest model of computation we can have since it can theoretically simulate any computer program. Since all the AI models we currently have run on computers, a TM can also simulate them. Therefore, even the fanciest AI models cannot solve the fundamentally uncomputable problems and are bounded by limits of a Turing computability.
 
