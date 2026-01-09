@@ -37,15 +37,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-finite-difference-vs-backpropagation",
+        },{id: "post-information-theory-amp-encoding",
         
-          title: "Finite Difference vs Backpropagation",
+          title: "Information Theory &amp; Encoding",
         
-        description: "comparison between two gradient computation techniques in machine learning",
+        description: "diving into the limits of data compression",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/forward-vs-back-prop/";
+            window.location.href = "/blog/2026/information-theory-encoding/";
+          
+        },
+      },{id: "post-theory-of-computation",
+        
+          title: "Theory of Computation",
+        
+        description: "fun facts about computation",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/theory-of-computation/";
           
         },
       },{id: "post-bloom-filters",
@@ -59,6 +70,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/bloom-filters/";
           
         },
+      },{id: "post-finite-difference-vs-backpropagation",
+        
+          title: "Finite Difference vs Backpropagation",
+        
+        description: "comparison between two gradient computation techniques in machine learning",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/finite-diff-vs-back-prop/";
+          
+        },
       },{id: "post-code-to-give-2025",
         
           title: "Code to Give 2025",
@@ -68,17 +90,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/code-to-give-2025/";
-          
-        },
-      },{id: "post-theory-of-computation",
-        
-          title: "Theory of Computation",
-        
-        description: "fun facts about computation",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/theory-of-computation/";
           
         },
       },{id: "post-max-flow-vs-max-flow-value",
