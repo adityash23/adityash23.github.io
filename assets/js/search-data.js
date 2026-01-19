@@ -169,9 +169,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/sustainable-ml/";
           
         },
-      },{id: "post-first-post",
+      },{id: "post-steps-for-customization",
         
-          title: "First Post",
+          title: "Steps for customization",
         
         description: "setting up your website",
         section: "Posts",
@@ -199,6 +199,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-attented-canada-s-biggest-hackathon-hackthenorth-2025-at-the-university-of-waterloo-check-out-our-project-cogniverse-making-every-idea-teachable",
           title: 'I attented Canada’s biggest hackathon - HackTheNorth 2025 at the University of Waterloo....',
           description: "",
+          section: "News",},{id: "news-i-have-been-awarded-the-mr-chan-chee-keung-and-mrs-chan-au-yuk-bing-memorial-scholarship-by-the-faculty-of-science-scholarships-committee-on-the-basis-of-academic-merit",
+          title: 'I have been awarded the Mr. Chan Chee Keung and Mrs. Chan Au...',
+          description: "",
           section: "News",},{id: "news-i-have-been-named-to-the-dean-s-honour-list-at-mcgill-university-for-2025-in-recognition-of-academic-excellence-ranking-among-the-top-10-of-students-by-gpa",
           title: 'I have been named to the Dean’s Honour List at McGill University for...',
           description: "",
@@ -207,6 +210,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-have-been-awarded-the-richard-tomlinson-undergraduate-award-for-my-tutoring-contributions-in-comp-251-algorithms-and-data-structures",
           title: 'I have been awarded the Richard Tomlinson Undergraduate Award for my tutoring contributions...',
+          description: "",
+          section: "News",},{id: "news-i-attented-mcgill-university-s-biggest-hackathon-mchacks-13-check-out-our-project-sustainify-making-online-shopping-sustainable",
+          title: 'I attented McGill University’s biggest hackathon - McHacks 13. Check out our project...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
