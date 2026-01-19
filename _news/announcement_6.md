@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-12-08 07:59:00-0400
+date: 2025-11-17 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I have been awarded the Richard Tomlinson Undergraduate Award for my tutoring contributions in [COMP 251 - Algorithms and Data Structures](https://coursecatalogue.mcgill.ca/courses/comp-251/).
+I participated in the Code to Give Hackathon 2025 organized by Morgan Stanley, where I helped solve a real-world problem for a non-profit partner.

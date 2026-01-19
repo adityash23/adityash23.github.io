@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 4 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
@@ -31,7 +31,7 @@ I'm an undergraduate Honors Computer Science student at McGill University.
 
 Currently working on energy consumption of Machine Learning models. Check out [my research experience as a SURA recipient](https://www.instagram.com/reel/DSKy59jjlXF/).
 
-Read [my blog](https://adityash23.github.io/blog/2025/the-science-of-interstellar) on *The Science of Interstellar* - my current read that delves into the physics behind one of the best science fiction movies.
+Read [my blog on *The Science of Interstellar*](https://adityash23.github.io/blog/2025/the-science-of-interstellar) - my current read that delves into the physics behind one of the best science fiction movies.
 
 ## Technologies
 

@@ -10,7 +10,13 @@ nav_order: 4
 ### Artificial Intelligence & Machine Learning
 
 #### **COMP 551: Applied Machine Learning**  
-A mathematical introduction to Machine Learning models, taught by [Reihaneh Rabbany](https://mila.quebec/en/directory/reihaneh-rabbany), a Core Academic Member of Mila - Quebec Artificial Intelligence Institute, and [Sékou-Oumar Kaba](https://oumarkaba.github.io). Developed a strong foundation in supervised and unsupervised learning, including linear and logistic regression, clustering, Naive Bayes, decision trees, and neural networks, as well as techniques including feature selection, dimensionality reduction, error estimation, empirical validation. Course assignments involved implementing neural networks from scratch (without external ML libraries) for image classification and text processing, trained and evaluated on Fashion-MNIST, and benchmarked model accuracy against pretrained baseline (BERT) to assess performance and generalization.
+Graduate level course on mathematical introduction to Machine Learning models, taught by [Reihaneh Rabbany](https://mila.quebec/en/directory/reihaneh-rabbany), a Core Academic Member of Mila - Quebec Artificial Intelligence Institute, and [Sékou-Oumar Kaba](https://oumarkaba.github.io). Developed a strong foundation in supervised and unsupervised learning, including linear and logistic regression, clustering, Naive Bayes, decision trees, and neural networks, as well as techniques including feature selection, dimensionality reduction, error estimation, empirical validation. Course assignments involved implementing neural networks from scratch (without external ML libraries) for image classification and text processing, trained and evaluated on Fashion-MNIST, and benchmarked model accuracy against pretrained baseline (BERT) to assess performance and generalization.
+
+#### **COMP 579: Reinforcement Learning**  
+Graduate level course on Reinforcement Learning taught by [Doina Precup](https://mila.quebec/en/directory/doina-precup), Canada CIFAR AI Chair and Research Team Leader, Google DeepMind, and [Nishanth Anand](https://mila.quebec/en/directory/nishanth-anand-vemgal). Topics covered inclue Bandit algorithms, finite Markov decision processes, dynamic programming, Monte-Carlo Methods, temporal-difference learning, bootstrapping, planning, approximation methods, on versus off policy learning, policy gradient methods temporal abstraction and inverse reinforcement learning.
+
+#### **COMP 511: Network Science**  
+Graduate level course on mathematical introduction to Machine Learning models, taught by [Reihaneh Rabbany](https://mila.quebec/en/directory/reihaneh-rabbany) covering topics in Network Science, Graph Mining and Graph Learning, including patterns in real world networks, ranking and similarity measures for graphs, graph clustering and community mining techniques, and node classification and link prediction methods.
 
 ---
 
