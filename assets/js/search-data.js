@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-information-theory-amp-encoding",
+        },{id: "post-network-science",
+        
+          title: "Network Science",
+        
+        description: "exploring the world of networks",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/network-science/";
+          
+        },
+      },{id: "post-information-theory-amp-encoding",
         
           title: "Information Theory &amp; Encoding",
         
