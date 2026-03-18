@@ -5,7 +5,7 @@ date: 2025-07-21 14:24:00
 description: some of the fascinating things about max. flow computation
 tags: computer-science
 categories: academic
-featured: true
+featured: false
 ---
 
 

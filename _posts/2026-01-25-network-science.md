@@ -5,8 +5,10 @@ date: 2026-01-25 14:24:00
 description: exploring the world of networks
 tags: computer-science
 categories: academic
-featured: true
+featured: false
 ---
+
+Exploring some key concepts in Network Science and how real-life graphs differ from the graphs studied in pure mathematics.  
 
 Graph theory concepts not directly applicable in real-world graphs because of Power law and existence of nodes with a very high and very low number degree.  
 
