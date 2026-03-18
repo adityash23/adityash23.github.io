@@ -37,7 +37,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-network-science",
+        },{id: "post-reinforcement-learning-basics",
+        
+          title: "Reinforcement Learning Basics",
+        
+        description: "exploring some key concepts in rl",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/reinforcement-learning-basics/";
+          
+        },
+      },{id: "post-bandits-in-reinforcement-learning",
+        
+          title: "Bandits in Reinforcement Learning",
+        
+        description: "exploring some bandit algorithms",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/bandits-in-rl/";
+          
+        },
+      },{id: "post-network-science",
         
           title: "Network Science",
         
