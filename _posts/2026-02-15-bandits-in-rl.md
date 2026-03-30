@@ -24,7 +24,7 @@ $$
 Q_t(a) = \frac{\sum{\text{rewards when action a performed till time t}}}{\text{number of time action a performed till time t}} 
 $$
 
-Central Limit Theorem tells us that $\lim_{N_t(a) \to \infty} Q_t(a) = q_*(a)$.
+Central Limit Theorem tells us that $\lim_{N_t(a) \to \infty} Q_t(a) = q_*(a)$ and ensures convergence to true action values.
 
 This technique of finding the optimal action works fine as long as the reward distribution of each action stays same over time. This is called as the **Stationarity Assumption**. In case the distrbutions change, by doing a simple average over past rewards, we are giving equal weight to rewards in near past and far in the past where the distribution was different from the current one.
 
@@ -40,7 +40,7 @@ To ensure convergence $Q \to q_*$, we need to follow the two conditions listed b
 1. $\sum_{n=1}^{\infty} \alpha_n(a) = \infty$
 2. $\sum_{n=1}^{\infty} \alpha^2_n(a) < \infty$
 
-Based on our estimates, a new term can be introduced that tells us the action that will give the best reward based on our estimates till now : $A_t^* = \argmax_a Q_t(a)$. If this is the action we actually choose at time t ($A_t = A_t^*$) then it's called **exploitation**.
+Based on our estimates, a new term can be introduced that tells us the action that will give the best reward based on our estimates till now : $A_t^* = \text{argmax}_a Q_t(a)$. If this is the action we actually choose at time t ($A_t = A_t^*$) then it's called **exploitation**.
 
 #### epsilon-greedy Action Selection
 If we always *exploit*, meaning being greedy with respect to the estimates so far, then we risk not finding the true optimal action. Thus we should also **explore** where at time t, we choose an action that is not the greedy action. 
@@ -62,7 +62,7 @@ This is a method to implement optimistic value initialization that -
 - estimates an upper bound on true action values (and now we can be greedy with respect to these estimates)
 
 $$
-A_t = \argmax_a [Q_t(a) + c\sqrt{\frac{\log t}{N_t(a)}}]
+A_t = \text{argmax}_a \bigg[ Q_t(a) + c\sqrt{\frac{\log t}{N_t(a)}} \bigg]
 $$
 
 An intuitive way to understand the above formula is the following - 
@@ -75,7 +75,7 @@ An intuitive way to understand the above formula is the following -
 This class of algorithm uses a learned preference function, $H_t(a)$, that tells which action to choose at time t. This function tells us how likely an action is to be the optimal action.
 
 $$
-\text(probability)(A_t = a) = \frac{e^{H_t(a)}}{\sum_a e^{H_t(a)}} = \pi_t(a)
+\text{probability}(A_t = a) = \frac{e^{H_t(a)}}{\sum_a e^{H_t(a)}} = \pi_t(a)
 $$
 
 #### Softmax Exploration

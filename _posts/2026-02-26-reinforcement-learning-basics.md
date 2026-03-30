@@ -5,7 +5,7 @@ date: 2026-02-26 14:24:00
 description: exploring some key concepts in rl
 tags: computer-science ml rl
 categories: academic
-featured: true
+featured: false
 ---
 
 This post dives into the field of Reinforcement Learning, the same field that has powered some of the recent LLM marvels such as reasoning and better responses to user questions.
@@ -18,9 +18,10 @@ Before we go into the different RL policies and learning algorithms, let's famil
 ### Bandits
 Bandits are the simplest form of RL agents. The agent has n actions to choose from. As soon as it performs an action, it gets an immediate reward and re-enters the state where it has to choose which action to do next. The agent's objective is to maximize the expected return by choosing certain actions. Since the reward from each action/arm can differ at different times (because we assume each action has a reward distribution from which we sample the reward at a specific time), the agent must be smart and try to find an optimal action. 
 
-
+[This post covers bandits in-depth and multiple algorithms about it.](https://adityash23.github.io/blog/2026/bandits-in-rl/)
 
 ### Finite Horizon Problems
+Bandits have a property of instantaneous reward and thus each action serves its own trajectory. However, in some real-life scenarios, you would observe 
 
 
 These topics were explained wonderfully by [Doina Precup](https://mila.quebec/en/directory/doina-precup), Canada CIFAR AI Chair and Research Team Leader, Google DeepMind, and [Nishanth Anand](https://mila.quebec/en/directory/nishanth-anand-vemgal) in one of their courses.
