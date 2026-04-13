@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-reinforcement-learning-basics",
+        },{id: "post-angular-introduction",
+        
+          title: "Angular - Introduction",
+        
+        description: "an introduction to some basic functionalities in angular",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/angular-introduction/";
+          
+        },
+      },{id: "post-reinforcement-learning-basics",
         
           title: "Reinforcement Learning Basics",
         
@@ -250,7 +261,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-presented-at-the-undergraduate-science-showcase-organized-by-the-office-of-science-education-explore-my-poster",
           title: 'I presented at the Undergraduate Science Showcase organized by the Office of Science...',
           description: "",
-          section: "News",},{id: "news-my-team-and-i-won-the-brim-challenge-at-claude-builders-ai-hackathon-try-it-out-or-check-out-our-devpost",
+          section: "News",},{id: "news-my-team-and-i-won-the-brim-challenge-at-claude-builders-ai-hackathon-check-out-our-devpost",
           title: 'My team and I won the Brim challenge at Claude Builders AI Hackathon....',
           description: "",
           section: "News",},{id: "projects-project-1",
