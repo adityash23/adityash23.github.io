@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My team and I won the Brim challenge at Claude Builders AI Hackathon. [Try it out](https://dpbarry.github.io/BRIM-ExI/#/talk-to-data) or [check out our Devpost](https://devpost.com/software/expenseintel)!
+My team and I won the Brim challenge at Claude Builders AI Hackathon. [Check out our Devpost](https://devpost.com/software/expenseintel)!
