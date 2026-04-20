@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Angular - Introduction
-date: 2026-02-26 14:24:00
+date: 2026-04-05 14:24:00
 description: an introduction to some basic functionalities in angular
 tags: software-eng front-end 
 categories: academic
 featured: true
 ---
 
-Angular is a front-end web framework maintained by Google. This post covers some of the basic functionalities in Angular such as data binding, directives, services, pipes and routing to create multi page applications.  
+Angular is a front-end web framework maintained by Google. This post covers some of the basic functionalities in Angular such as data binding, directives, services, pipes and routing to create multi page applications.
 
 **index.html** calls each component to display based on the tag that defines it
 
@@ -25,7 +25,7 @@ Defining variables using signal in TS - ```var = signal(input value)```. To retr
 #### Data Binding
 Passing data from a parent component to child component - 
 1. inside parent.html, when writing the HTML tag for the child, do ```<app-child [varName]="value"/>```
-- value can be a string placed within '' or a signal variable - signalVar()
+- value can be a string placed within ' ' or a signal variable - signalVar()
 2. inside the child.TS, within the export class code, write ```varName = input('Some default value')```
 3. child.html can now use this signal same as before - ```{{ varName() }}```
 
