@@ -29,7 +29,7 @@ latest_posts:
 
 I'm an undergraduate Honors Computer Science student at McGill University.
 
-Currently working on energy consumption of Machine Learning models. Check out [my research experience as a SURA recipient](https://www.instagram.com/reel/DSKy59jjlXF/).
+I'm currently a Summer Analyst Intern at [Morgan Stanley](https://www.morganstanley.com). I have previously worked on graphical applications in social networks and energy consumption of Machine Learning models. Check out [my research experience as a SURA recipient](https://www.instagram.com/reel/DSKy59jjlXF/).
 
 Read [my blog on *The Science of Interstellar*](https://adityash23.github.io/blog/2025/the-science-of-interstellar) - my current read that delves into the physics behind one of the best science fiction movies.
 
