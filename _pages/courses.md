@@ -22,6 +22,9 @@ Graduate level course on mathematical introduction to Machine Learning models, t
 
 ### Algorithms & Theory
 
+#### **COMP 594: Computational Social Choice**  
+Topics course on advanced computational social choice taught by [Adrian Vetta](https://www.math.mcgill.ca/vetta/). Topics covered include single-winner elections; multi-winner elections; modern voting applications; fair division; optimal resource allocation, with a focus on computational complexity of algorithms for the methods presented.
+
 #### **COMP 360: Algorithm Design**  
 Course on advanced algorithm design and analysis taught by [Rohit Vasishta](https://sites.google.com/view/rohitvasishta/about). Topics covered include advanced Flow Network techniques with special constraints (e.g., lower bounds, vertex demands), Linear Programming, Game Theory, complexity classes, NP-completeness, and advanced algorithmic reduction techniques.
 

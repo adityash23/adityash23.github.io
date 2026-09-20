@@ -9,6 +9,9 @@ nav_order: 6
 
 This page summarizes scholarships, academic awards, and other recognitions I have received during my undergraduate studies.
 
+### [Dean's Honour List (2025-2026)](https://www.mcgill.ca/studentaid/scholarships-aid/current-undergrads/merit)
+Awarded for academic excellence to the top 10% of continuing students in the Faculty of Science based on the combined GPA for the Fall and Winter terms.
+
 ### Chadha Family Scholarship
 Awarded by the Scholarships and Student Aid Office on the basis of academic merit for outstanding undergraduate students who have completed at least one year of fulltime studies.
 
