@@ -44,7 +44,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-angular-introduction",
+        },{id: "post-lcbee-conference-2026",
+        
+          title: "LCBEE Conference 2026",
+        
+        description: "my key takeaways from the business ethics conference",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/lcbee-conference-2026/";
+          
+        },
+      },{id: "post-icpc-nena-2026",
+        
+          title: "ICPC NENA 2026",
+        
+        description: "competing in north america regionals for competitive programming",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/icpc-nena-2026/";
+          
+        },
+      },{id: "post-angular-introduction",
         
           title: "Angular - Introduction",
         
@@ -274,14 +296,26 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-been-awarded-the-harpp-undergraduate-award-for-my-tutoring-contributions-in-comp-250-introduction-to-computer-science",
           title: 'I have been awarded the Harpp Undergraduate Award for my tutoring contributions in...',
           description: "",
-          section: "News",},{id: "news-i-m-joining-morgan-stanley-as-a-summer-analyst-intern",
-          title: 'I’m joining Morgan Stanley as a Summer Analyst Intern.',
+          section: "News",},{id: "news-i-m-joining-morgan-stanley-as-a-summer-technology-analyst-intern",
+          title: 'I’m joining Morgan Stanley as a Summer Technology Analyst Intern.',
           description: "",
           section: "News",},{id: "news-i-have-been-awarded-the-chadha-family-scholarship-by-the-faculty-of-science-scholarships-committee-on-the-basis-of-academic-merit",
           title: 'I have been awarded the Chadha Family Scholarship by the Faculty of Science...',
           description: "",
           section: "News",},{id: "news-i-have-been-named-to-the-dean-s-honour-list-at-mcgill-university-for-2026-in-recognition-of-academic-excellence-ranking-among-the-top-10-of-students-by-gpa",
           title: 'I have been named to the Dean’s Honour List at McGill University for...',
+          description: "",
+          section: "News",},{id: "news-i-have-been-named-to-the-honour-roll-2025-2026-for-frsl-332-by-the-french-language-centre-at-mcgill-university-based-on-professor-recommendations-it-highlights-individuals-who-have-stood-out-in-their-learning-of-french-as-a-second-language",
+          title: 'I have been named to the Honour Roll 2025-2026 for FRSL 332 by...',
+          description: "",
+          section: "News",},{id: "news-i-am-part-of-mcgill-university-s-official-team-for-the-2026-icpc-north-east-north-american-regionals-my-team-scored-the-49th-place-internationally",
+          title: 'I am part of McGill University’s official team for the 2026 ICPC North...',
+          description: "",
+          section: "News",},{id: "news-i-am-awarded-the-emily-ross-crawford-scholarship-by-the-faculty-of-science-based-on-academic-merit-in-my-program",
+          title: 'I am awarded the Emily Ross Crawford Scholarship by the Faculty of Science...',
+          description: "",
+          section: "News",},{id: "news-i-attended-the-2026-business-ethics-conference-on-ethics-and-artificial-intelligence-https-www-mcgill-ca-desautels-channels-event-lcbee-business-ethics-conference-ethics-and-artificial-intelligence-373737-organized-by-the-laidley-centre-for-business-ethics-and-equity-https-www-mcgill-ca-desautels-initiatives-institutes-laidley-centre-business-ethics-and-equity-lcbee",
+          title: 'I attended the (2026 Business Ethics Conference on Ethics and Artificial Intelligence)[https://www.mcgill.ca/desautels/channels/event/lcbee-business-ethics-conference-ethics-and-artificial-intelligence-373737] organized...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
