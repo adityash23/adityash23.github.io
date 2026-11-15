@@ -32,7 +32,7 @@ Course on advanced algorithm design and analysis taught by [Rohit Vasishta](http
 Honours-level course on design and analysis of algorithms and data structures, taught by [Luc Devroye](https://luc.devroye.org). Focus on proving algorithm correctness and analyzing computational complexity. Topics included sorting, graph algorithms, Flow Networks, Dynamic Programming, and asymptotic analysis.
 
 #### **COMP 330: Theory of Computation**  
-Course on Automata theory and Turing Machines taught by [Jérôme Waldispühl](https://www.cs.mcgill.ca/~jeromew/). Topics covered include Finite Automata, Regular Languages, Context-free Languages, Push-down Automata, models of computation, computability theory, undecidability, reduction techniques.
+Course on Automata theory and Turing Machines taught by [Jérôme Waldispühl](https://www.cs.mcgill.ca/~jeromew/). Topics covered include Finite Automata, Regular Languages, Context-free Languages, Push-down Automata, models of computation, computability theory, undecidability, reduction techniques. Check out [my blog on some fun facts about computation that I learned in this course](https://adityash23.github.io/blog/2025/theory-of-computation/).
 
 #### **COMP 302: Programming Languages and Paradigms**  
 Course on functional and logic programming using OCaml, taught by [Brigitte Pientka](https://www.cs.mcgill.ca/~bpientka/index.html). Programming language design issues and programming paradigms. Binding and scoping, parameter passing, lambda abstraction, data abstraction, type checking. Implemented RSA key-pair validation and encryption in OCaml, using functional programming techniques for efficiency, as part of the course project.

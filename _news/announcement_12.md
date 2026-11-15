@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm joining [Morgan Stanley](https://www.morganstanley.com) as a Summer Analyst Intern.
+I'm joining [Morgan Stanley](https://www.morganstanley.com) as a Summer Technology Analyst Intern.

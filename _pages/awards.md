@@ -9,6 +9,12 @@ nav_order: 6
 
 This page summarizes scholarships, academic awards, and other recognitions I have received during my undergraduate studies.
 
+### Emily Ross Crawford Scholarship
+Awarded by the Faculty of Science to candidates of high academic merit in the work of the U1 or U2 year.
+
+### [French Honour Roll 2025-2026](https://www.mcgill.ca/flc/activities-and-events/students-honour-rolls)
+Based on recommendations by the teaching team, the French Language Centre at McGill University highlights individuals who have stood out in their learning of French as a second language. The students have distinguished themselves through the quality of their work, their dedication, and the progress they made throughout the year.
+
 ### [Dean's Honour List (2025-2026)](https://www.mcgill.ca/studentaid/scholarships-aid/current-undergrads/merit)
 Awarded for academic excellence to the top 10% of continuing students in the Faculty of Science based on the combined GPA for the Fall and Winter terms.
 
@@ -28,7 +34,7 @@ Awarded by the Faculty of Science Scholarships Committee on the basis of academi
 Awarded for participation in the Faculty of Science Peer Mentoring Program for [COMP 250](https://coursecatalogue.mcgill.ca/courses/comp-250/) during the Winter 2026 session. Peer tutors are selected by the course instructors based on academic achievement and teaching potential.
 
 ### Richard Tomlinson Undergraduate Award
-Awarded for participation in the Faculty of Science Peer Mentoring Program for [COMP 251](https://coursecatalogue.mcgill.ca/courses/comp-251/) during the Fall 2025 session. Peer tutors are selected by the course instructors based on academic achievement and teaching potential.
+Awarded twice for participation in the Faculty of Science Peer Mentoring Program for [COMP 251](https://coursecatalogue.mcgill.ca/courses/comp-251/) during the Fall 2025 and Fall 2026 session. Peer tutors are selected by the course instructors based on academic achievement and teaching potential.
 
 ### Tomlinson Engagement Award for Mentoring
 Awarded twice for performing tutoring responsibilities and hosting mid term review sessions as part of being a CSUS Helpdesk Tutor.
