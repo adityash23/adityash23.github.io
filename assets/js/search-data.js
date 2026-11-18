@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-lcbee-conference-2026",
+        },{id: "post-lcbee-business-ethics-conference-2026",
         
-          title: "LCBEE Conference 2026",
+          title: "LCBEE Business Ethics Conference 2026",
         
         description: "my key takeaways from the business ethics conference",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/lcbee-conference-2026/";
+            window.location.href = "/blog/2026/lcbee-business-ethics-conference-2026/";
           
         },
       },{id: "post-icpc-nena-2026",
@@ -308,14 +308,17 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-been-named-to-the-honour-roll-2025-2026-for-frsl-332-by-the-french-language-centre-at-mcgill-university-based-on-professor-recommendations-it-highlights-individuals-who-have-stood-out-in-their-learning-of-french-as-a-second-language",
           title: 'I have been named to the Honour Roll 2025-2026 for FRSL 332 by...',
           description: "",
-          section: "News",},{id: "news-i-am-part-of-mcgill-university-s-official-team-for-the-2026-icpc-north-east-north-american-regionals-my-team-scored-the-49th-place-internationally",
+          section: "News",},{id: "news-i-am-part-of-mcgill-university-s-official-team-for-the-2026-icpc-north-east-north-american-regionals-my-team-scored-the-49th-place-in-the-region",
           title: 'I am part of McGill University’s official team for the 2026 ICPC North...',
           description: "",
           section: "News",},{id: "news-i-am-awarded-the-emily-ross-crawford-scholarship-by-the-faculty-of-science-based-on-academic-merit-in-my-program",
           title: 'I am awarded the Emily Ross Crawford Scholarship by the Faculty of Science...',
           description: "",
-          section: "News",},{id: "news-i-attended-the-2026-business-ethics-conference-on-ethics-and-artificial-intelligence-https-www-mcgill-ca-desautels-channels-event-lcbee-business-ethics-conference-ethics-and-artificial-intelligence-373737-organized-by-the-laidley-centre-for-business-ethics-and-equity-https-www-mcgill-ca-desautels-initiatives-institutes-laidley-centre-business-ethics-and-equity-lcbee",
-          title: 'I attended the (2026 Business Ethics Conference on Ethics and Artificial Intelligence)[https://www.mcgill.ca/desautels/channels/event/lcbee-business-ethics-conference-ethics-and-artificial-intelligence-373737] organized...',
+          section: "News",},{id: "news-i-attended-the-2026-business-ethics-conference-on-ethics-and-artificial-intelligence-organized-by-the-laidley-centre-for-business-ethics-and-equity-read-my-key-takeaways-from-the-event",
+          title: 'I attended the 2026 Business Ethics Conference on Ethics and Artificial Intelligence organized...',
+          description: "",
+          section: "News",},{id: "news-i-am-awarded-the-richard-tomlinson-undergraduate-award-for-my-tutoring-contributions-in-comp-251-algorithms-and-data-structures",
+          title: 'I am awarded the Richard Tomlinson Undergraduate Award for my tutoring contributions in...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
