@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am part of McGill University's official team for the 2026 [ICPC North East North American Regionals](https://ne.na.icpc.global). My team scored the 49th place internationally.
+I am part of McGill University's official team for the 2026 [ICPC North East North American Regionals](https://ne.na.icpc.global). My team scored the 49th place in the region.

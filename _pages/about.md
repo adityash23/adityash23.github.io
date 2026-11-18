@@ -31,6 +31,8 @@ I'm an undergraduate Honors Computer Science student at McGill University and a 
 
 [A video featuring me as a Sci-Learn Peer Mentor](https://www.instagram.com/reel/Dej9fluxcqW/).
 
+Explore some of [my key takeaways from the Business Ethics Conference on Ethics and Artificial Intelligence](https://adityash23.github.io/blog/2026/lcbee-business-ethics-conference-2026/) organized by the [Laidley Centre for Business Ethics and Equity](https://www.mcgill.ca/desautels/initiatives-institutes/laidley-centre-business-ethics-and-equity-lcbee). 
+
 Read [my blog on *The Science of Interstellar*](https://adityash23.github.io/blog/2025/the-science-of-interstellar) - my current read that delves into the physics behind one of the best science fiction movies. 
 
 ## Technologies
